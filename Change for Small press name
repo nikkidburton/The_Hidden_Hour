@@ -1,0 +1,23 @@
+<Doctype html!>
+<html>
+  <head>
+    <Title>Desolation Publishing</title>
+  </head>
+  <div>
+    <nav>
+      <h1>Desolation Publishing</h1>
+      <ul>
+        <li>Home</li>
+        <li>Books</li>
+        <li>Authors</li>
+        <li>Events</li>
+        <li>Submission</li>
+        <li>About us</li>
+        <li>Contact</li> 
+      </ul>
+    </nav>
+    <body>
+      <> Welcome to </p>
+    </body>
+  </div>
+</html>
